@@ -1,0 +1,1314 @@
+{
+    "Questions": [
+        {
+            "Question": "What is a common side effect of the drug doxycycline?",
+            "Options": {
+                "A": "Hives",
+                "B": "Nausea",
+                "C": "Headache",
+                "D": "Fever"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a potential side effect of the drug spironolactone?",
+            "Options": {
+                "A": "Difficulty breathing",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug minocycline?",
+            "Options": {
+                "A": "Swelling of the face",
+                "B": "Hives",
+                "C": "Fever",
+                "D": "Muscle pain"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following drugs can cause problems with vision or hearing?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug clindamycin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "Which of the following drugs can cause serious side effects, including hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "Phentermine"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause muscle pain?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Accutane",
+                "D": "Clindamycin"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "What is a potential side effect of the drug amoxicillin?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug amlodipine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug phentermine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause fever?",
+            "Options": {
+                "A": "Doxycycline",
+                "B": "Spironolactone",
+                "C": "Minocycline",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug minocycline?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "B"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug benzphetamine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug fenfluramine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Difficulty breathing",
+                "C": "Swelling of the face",
+                "D": "Flu-like symptoms"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "Which of the following drugs can cause hives?",
+            "Options": {
+                "A": "Imcivree",
+                "B": "Setmelanotide",
+                "C": "Fendique ER",
+                "D": "All of the above"
+            },
+            "Answer": "D"
+        },
+        {
+            "Question": "What is a potential side effect of the drug setmelanotide?",
+            "Options": {
+                "A": "Skin rash",
+                "B": "Fever",
+                "C": "Hives",
+                "D": "Difficulty breathing"
+            },
+            "Answer": "C"
+        },
+        {
+            "Question": "Which of the following is a side effect of the drug phendimetrazine?",
+            "Options": {
+                "A": "Hives",
+                "B": "Swollen glands",
+                "C": "Flu-like symptoms",
+                "D": "Skin rash"
+            },
+            "Answer": "A"
+        },
+        {
+            "Question": "What is a possible side effect of the drug isotretinoin?",
+            "Options": {
+                "A": "Problems with vision or hearing",
+                "B": "Hives",
+                "C": "Difficulty breathing",
+                "D": "Swollen glands"
+            },
+            "Answer": "A"
+        }
+    ]
+}
